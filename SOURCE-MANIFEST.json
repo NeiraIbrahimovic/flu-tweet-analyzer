@@ -1,0 +1,102 @@
+[
+  {
+    "path": "flu_tweets.json",
+    "recovered_source_sha256": "c508f27a8a59f7bd0032e69b38d94e8908212af4862d92245594d0b50a3f4a6d"
+  },
+  {
+    "path": "flu_tweets.txt",
+    "recovered_source_sha256": "fd0ddc3066232ec6473c478f244c5c03ce91a95e85e69e1f80c665e89da5dfb5"
+  },
+  {
+    "path": "states.csv",
+    "recovered_source_sha256": "9678dc147db6760c756d033ea66c26fa3c9a72c0f206cde8cb491315690b487e"
+  },
+  {
+    "path": "src/portfolio/analytics/Main.java",
+    "recovered_source_sha256": "7df15d29d5da573993623e12a2f936e40c28474729d85e1e58efa03f9d8e36be"
+  },
+  {
+    "path": "src/portfolio/analytics/datamanagement/JsonFileTweetReader.java",
+    "recovered_source_sha256": "c07d9aa07bb045ecaab8b46b1f5627a0d6223b950bb9410b59b3b7a3a148a6f8"
+  },
+  {
+    "path": "src/portfolio/analytics/datamanagement/StateFileReader.java",
+    "recovered_source_sha256": "f989e2eb2a31badda24a828172265cd8fd3a5c83921d1ef3d70acd8149304443"
+  },
+  {
+    "path": "src/portfolio/analytics/datamanagement/TextFileTweetReader.java",
+    "recovered_source_sha256": "5fa7a67472ba204877460278b0206eee603ce5ba9afb8d4310dd3869fe6c38a6"
+  },
+  {
+    "path": "src/portfolio/analytics/datamanagement/TweetReader.java",
+    "recovered_source_sha256": "b473c39b9db40fa7b45b30e2a782c8c38f48da8d08ea82b221493c944766a3f4"
+  },
+  {
+    "path": "src/portfolio/analytics/logging/Logger.java",
+    "recovered_source_sha256": "efc92e2b19122f64d1e0bbd8b66dba4bec0d65a71da83fee3af764beedc6c9fb"
+  },
+  {
+    "path": "src/portfolio/analytics/processor/TweetProcessor.java",
+    "recovered_source_sha256": "fa34e207297a1c939d7badb019fb6cce7098beb1d3027fccae27bae5a140cc29"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/BasicTests.java",
+    "recovered_source_sha256": "34e38bb5bed6cee53fcabc06217216cd030c96a6a9835f815303547c875bbbdf"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/FluDetectionTest.java",
+    "recovered_source_sha256": "df68b2a2647d646731a9bba3aa4e39715c8572ca15962573bcb8852a6f0419dc"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/FullDatasetJsonIntegrationTest.java",
+    "recovered_source_sha256": "f465488819d22de6b059d96099910d2bf4a4c5bda20c033bd37e882b1dc76dfc"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/FullDatasetTextIntegrationTest.java",
+    "recovered_source_sha256": "31515f57080e81ddc1ec84ffdfdd48d4c86e0a469f7188b5b15b7324197fcb36"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/JsonFileTweetReaderTest.java",
+    "recovered_source_sha256": "a4ee2c84f7ac633fd4ee9e33ae65ed6c29d1fbf086542ad233978d65ca543ec2"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/LoggerTest.java",
+    "recovered_source_sha256": "872f0945c6432d4961c0836dca592531ba0261a240695a77590705327a4faf42"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/StateReaderTest.java",
+    "recovered_source_sha256": "802a3ee4f419eeb6ac9603fc7a412be98794cce67ed23f161b97bf0b7b966e05"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/StateTest.java",
+    "recovered_source_sha256": "7949209cff345f73cd40fe022f6d1034bc1064f34c7cfad24f3ffb47dff1d510"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/TextFileTweetReaderTest.java",
+    "recovered_source_sha256": "8909a4fe3fecc6f0b5435b6175e44b3819bf5d9657d111ea74201f27fe995487"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/TweetProcessorTest.java",
+    "recovered_source_sha256": "85c0061dd66d71297acd261948c57ce79453da2d6661f5f8c9309bb28533bc4f"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/TweetTest.java",
+    "recovered_source_sha256": "6751dda535714a67ea7a6b1885b48bdcfba38c572c12d1a6f11fedfa03171912"
+  },
+  {
+    "path": "src/portfolio/analytics/studenttests/UserInterfaceTest.java",
+    "recovered_source_sha256": "a9c56cc903c932149ad4b86384312b4a5511291061f6ced8d35c1dd753015347"
+  },
+  {
+    "path": "src/portfolio/analytics/ui/UserInterface.java",
+    "recovered_source_sha256": "16292b5dc68dda1d88f878d0688f465446089c66376efe82f07b8bdf23223051"
+  },
+  {
+    "path": "src/portfolio/analytics/util/State.java",
+    "recovered_source_sha256": "952be38fa73be45e610072cb2d8214bb7df3b75def009fa9e5d0f3975578c80b"
+  },
+  {
+    "path": "src/portfolio/analytics/util/Tweet.java",
+    "recovered_source_sha256": "fb92b4ec39f02bfbb3ccd742a772d545582c6a59170b6cef15a5b4d785cffd61"
+  }
+]
