@@ -1,0 +1,11 @@
+{
+  "project": "flu-tweet-analyzer",
+  "compile_exit": 0,
+  "test_exit": 0,
+  "passed": [
+    "13"
+  ],
+  "failed": [
+    "0"
+  ]
+}
